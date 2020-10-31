@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+## My Name Is Hakki Sagdic
 Use the left arrow to go back!
